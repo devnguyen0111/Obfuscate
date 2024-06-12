@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Obfuscated-Code/1.0.0": {
+        "dependencies": {
+          "ObfuscationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Obfuscated-Code.dll": {}
+        }
+      },
+      "ObfuscationLibrary/1.0.0": {
+        "runtime": {
+          "ObfuscationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obfuscated-Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObfuscationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
